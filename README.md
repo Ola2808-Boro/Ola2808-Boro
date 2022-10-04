@@ -33,7 +33,4 @@ Currently I'm learning React framework.
 _________
 
 ### 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ola2808-Boro&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ola2808-Boro&layout=compact&theme=vision-friendly-light)](https://github.com/Ola2808-Boro/github-readme-stats)
 
