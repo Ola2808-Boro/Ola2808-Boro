@@ -1,16 +1,16 @@
 
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/></p>
 
-### <div align="center">I'm Ola, student of Automation, Robotics and Control Systems 👨‍💻 </div>  
+### <div align="center">I'm Ola, Engineer of Automation, Robotics and Control Systems, student of Biomedical Engineering with specialization AI 👨‍💻 </div>  
   
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Ola2808-Boro&&style=flat-square" align="center" />
 </div>  
   
-- 🔭 I’m currently working on [Project Silenus](https://github.com/Ola2808-Boro/Silenus)  
+- 🔭 I’m currently working on [ec0lint]([https://github.com/Ola2808-Boro/Silenus](https://ec0lint.com/))  
   
 
-- 🌱 I’m currently learning React, Next.js  
+- 🌱 I’m currently learning React, Python.  
   
 
 - 😊 If you need a new dev in your team, I'm open to your job offer.  
@@ -40,6 +40,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
