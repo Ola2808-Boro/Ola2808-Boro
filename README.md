@@ -5,7 +5,7 @@
 <h3 align="center>"A passionate AI Enginner from Poland.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on my Master's thesis:  Atificial-intelligence-algorithms-for-the-prediction-and-classification-of-thyroid-diseases<br>🌱 I’m currently learning NLP.
+🔭 I’m currently working on my Master's thesis:  Artificial-intelligence-algorithms-for-the-prediction-and-classification-of-thyroid-diseases<br>🌱 I’m currently learning NLP.
 
 
 ## 🌐 Socials:
